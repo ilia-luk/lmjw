@@ -1,0 +1,14 @@
+{
+  "name": "ilia",
+  "dailyRoutineTimes": {
+    "lunch": 1,
+    "breaks": [0.25, 0.25, 0.25, 0.25],
+    "unreleatedToActuallWork": {
+      "socialTalks": 0.25,
+      "peerHelp": 0.25,
+      "brainStorming": 0.25,
+      "toilet": 0.10,
+      "meeting": 0.15
+    }
+  }
+}
